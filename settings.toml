@@ -1,0 +1,6 @@
+WIFI_SSID = "PeaceHill"
+WIFI_PASS = "C0smoSag@n"
+HOSTNAME = "soilsensor"
+
+blynk_auth_token = "bhI25xzYxIVpzwGEDsB0teMcR1IUJn2u"
+
